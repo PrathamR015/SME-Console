@@ -1,1 +1,1 @@
-# SME-Console
+# SME Business Management Console
